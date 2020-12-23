@@ -26,14 +26,10 @@ You know how hard it is sometimes to manage group so here is the solution for yo
 
 I'm group manager bot and Anti-spam. 
 
-Activate Anti-spam protection in your BM by this command : 
+Activate Anti-spam protection in your PM by this command : 
 /antispam on 
 
-Made from the source code of [Divyansh](t.me/divyansh_choudhary)
-
-Deploy a bot like me [now](www.github.com/xditya/GroupManager)
-
-Click /help or Help button below to find out more about how to use me to my full potential.
+click /help or Help button below to find out more about how to use me to my full potential.
 
  Add me to a group by clicking [here](http://t.me/GroupzoidBot?startgroup=true).
 """
